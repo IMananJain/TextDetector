@@ -1,0 +1,7 @@
+/build
+# Android Studio / IntelliJ IDEA
+*.iws
+*.iml
+/.idea
+/.gradle
+google-services.json
